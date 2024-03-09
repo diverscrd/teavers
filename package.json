@@ -4,7 +4,7 @@
   },
   "name": "teavers",
   "description": "Tea Project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "diverstea.js",
   "devDependencies": {},
   "scripts": {
@@ -14,5 +14,13 @@
     "tea"
   ],
   "author": "divers",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diverscrd/teavers"
+  },
+  "bugs": {
+    "url": "https://github.com/diverscrd/teavers/issues"
+  },
+  "homepage": "https://github.com/diverscrd/teavers#readme"
 }
